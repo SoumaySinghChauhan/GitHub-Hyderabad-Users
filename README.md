@@ -7,12 +7,3 @@
 ## Project Description
 
 This project collects data from GitHub on users located in Hyderabad who have more than 50 followers. It fetches information on each user's profile and repositories and saves the data to `users.csv` and `repositories.csv` files.
-
-## How to Run the Script
-
-1. Clone this repository.
-2. Set up your virtual environment and install dependencies:
-   ```bash
-   python -m venv env
-   source env/bin/activate  # or .\env\Scripts\activate on Windows
-   pip install -r requirements.txt
